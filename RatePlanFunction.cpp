@@ -1,4 +1,4 @@
-// This is a menu driven- driven program that makes a function call
+// This is a menu driven program that makes a function call
 // for each selection the user makes.
 // The selections will be four T-mobile rate plans.
 // The plans are the following Magenta, Magenta Max
@@ -98,3 +98,4 @@ void showFees(double planRate, int months)
     cout << "The total charges are $"
          << (planRate * months) << endl;
 }
+
